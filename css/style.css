@@ -1,0 +1,44 @@
+.kwlogo {
+	width: 70px;
+	vertical-align: baseline;
+}
+
+.row2 {
+	text-align: right;
+	margin-top: 10px;	
+}
+
+.building {
+	width: 100%;
+	margin-top: 10px;	
+}
+
+.row4 {
+	margin-top: 20px;
+	color: grey;
+	text-align: center;	
+}
+
+.me {
+	width: 100%;
+}
+
+.snow {
+	width: 100%;
+}
+
+.tattoo {
+	width: 100%;
+}
+
+.lastrow {
+	margin-top: 120px;
+	text-align: center;
+}
+
+footer {
+	margin-top: 20px;
+	text-align: center;
+	color: grey;
+	font-size: 60%;
+}
